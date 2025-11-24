@@ -1,5 +1,5 @@
 # Capstone-Animal-Shelter-Analysis
-This project explores Intake and Outcome data for the Louisville Metro Animal Shelter and Bloomington Animal Care & Control. It demonstrates data cleaning, exploratory analysis, and visualization in Python.
+This project explores Intake and Outcome data for the Louisville Metro Animal Shelter, Bloomington Animal Care & Control and the City of Austin Animal Center. It demonstrates data cleaning, exploratory analysis, and visualization in Python.
 
 How to Use
 
@@ -24,8 +24,11 @@ Data Sources
 Yearly shelter data (2021 - 2025) CSV file kentucky_shelter_data.csv (provided in data/)
 Downloaded from the Louisville Metro site https://data.louisvilleky.gov
 
-Yearly shelter data (2017 - 2015) CSV file BloomingtonIN_Animal_Shelter_Animals.csv (provided in data/)
+Yearly shelter data (2017 - 2025) CSV file BloomingtonIN_Animal_Shelter_Animals.csv (provided in data/)
 Downloaded from the City of Bloomington site https://data.bloomington.in.gov
+
+Yearly shelter data (2013-2025)CSV files Austin_Animal_Center_Intakes.csv and Austin_Anima_Center_Outcomes (provided in data/)
+Downloaded from the City of Austin open data portal site https://data.austintexas.gov
 
 
 Author
