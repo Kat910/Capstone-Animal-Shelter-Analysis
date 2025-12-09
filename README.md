@@ -30,16 +30,16 @@ This project analyzes **intake and outcome data** from three major animal shelte
 ## Data Sources
 
 1. Yearly shelter data (2021 - 2025) CSV file kentucky_shelter_data.csv 
-   Stored in data/
-   Downloaded from the Louisville Metro site https://data.louisvilleky.gov
+   - Stored in data/
+   - Downloaded from the Louisville Metro site https://data.louisvilleky.gov
 
 2. Yearly shelter data (2017 - 2025) CSV file BloomingtonIN_Animal_Shelter_Animals.csv 
-   Stored in data/ 
-   Downloaded from the City of Bloomington site https://data.bloomington.in.gov
+   - Stored in data/ 
+   - Downloaded from the City of Bloomington site https://data.bloomington.in.gov
 
 3. Yearly shelter data (2013-2025) CSV files Austin_Animal_Center_Intakes.csv and Austin_Animal_Center_Outcomes 
-   Stored in data/ 
-   Downloaded from the City of Austin open data portal site https://data.austintexas.gov
+   - Stored in data/ 
+   - Downloaded from the City of Austin open data portal site https://data.austintexas.gov
 
    Note: Data was filtered due to size, for analysis, to the range of 1.1.23 - 7.31.25
 ---
